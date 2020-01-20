@@ -1,0 +1,15 @@
+{
+    "name": "maymeow/enum",
+    "authors": [
+        {
+            "name": "May",
+            "email": "themaymeow@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MayMeow\\Enum\\": "src"
+        }
+    }
+}
